@@ -1,2 +1,16 @@
-# flutter_todo_app
-I built a simple Flutter Todo app to practice mobile development. It lets you add, complete, and delete tasks, and saves them locally. This project helped me learn Flutter widgets, state management, and local storage while creating a clean, interactive app.
+# todo_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
